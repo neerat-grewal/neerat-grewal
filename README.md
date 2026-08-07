@@ -5,7 +5,7 @@
 
 I'm a passionate **Statistics New Grad** with experience in **Python, SQL, Excel, and Power BI**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **Capital markets concepts, Anti-money laundering, and IT Audit concepts**
+- 🌱 Currently learning: **SQL**
 - 🔭 Working on: **Studying for the Financial Mathematics actuarial exam and refreshing coding knowledge**
 - 🌍 Languages: **English, French, Punjabi; Python, SQL, HTML, CSS, JavaScript**
 - 📫 How to reach me: **neeratkgrewal@gmail.com**
