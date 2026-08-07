@@ -20,7 +20,14 @@ I'm a passionate **Statistics New Grad** with experience in **Python, SQL, Excel
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 
-## Featured Project 💻
+## Featured Projects 💻
+
+### HR Employee Attrition Analysis (https://github.com/neerat-grewal/HR-Employee-Attrition-Analysis)
+
+**HR Employee Attrition Analysis** is a project in which I queried a 1,470-employee public HR dataset to uncover what actually drives attrition. Using joins, aggregation, and conditional logic, I found that **overtime, not job satisfaction, is the strongest predictor of turnover**, with attrition nearly tripling for employees working overtime (30.5% vs. 10.4%). Sales employees working overtime were the highest-risk group at 37.5%.
+
+**Tools:** SQLite, SQL | **[View project →](https://github.com/neerat-grewal/HR-Employee-Attrition-Analysis)**
+
 
 ### Walmart Weekly Sales Forecasting (https://github.com/neeratkgrewal-glitch/walmart-weekly-sales-forecasting)
 
